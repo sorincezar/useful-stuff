@@ -15,3 +15,4 @@
 - https://wiki.st.com/stm32mcu/wiki/STM32MotorControl:6-step_Firmware_Algorithm
 - TI Seminar on FOC Motor Control  https://www.youtube.com/playlist?list=PLuUNUe8EVqlkaAtIzzdF7KUDvQIJ4KM_0
 - Understanding motors Youtoube series https://www.youtube.com/watch?v=EHYEQM1sA3o&list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D
+- https://www.switchcraft.org/
