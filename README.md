@@ -18,3 +18,4 @@
 - https://www.switchcraft.org/
 
 - Control Theory https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas
+- Resources on control theory https://resourcium.org/
