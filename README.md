@@ -16,3 +16,5 @@
 - TI Seminar on FOC Motor Control  https://www.youtube.com/playlist?list=PLuUNUe8EVqlkaAtIzzdF7KUDvQIJ4KM_0
 - Understanding motors Youtoube series https://www.youtube.com/watch?v=EHYEQM1sA3o&list=PLaBr_WzeIAixidGwqfcrQlwKZX4RZ2E7D
 - https://www.switchcraft.org/
+
+- Control Theory https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas
